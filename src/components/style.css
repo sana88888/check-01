@@ -1,0 +1,42 @@
+body {
+  /* border: 1px blue solid; */
+
+  background-color: black;
+}
+
+.App {
+  /* border: 1px black solid; */
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+  width: 50%;
+  color: white;
+   margin: 0; 
+  padding: 0;
+  
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+p {
+  /* border: 1px yellow solid; */
+  position: relative;
+  width: 400px;
+   margin: 0; 
+  padding: 0; 
+}
+.price {
+  /* border: 1px red solid; */
+  position: relative;
+}
+.name {
+  /* border: 1px blueviolet solid; */
+  position: relative;
+}
+h1 {
+   margin: 0; 
+  padding: 0;
+}
